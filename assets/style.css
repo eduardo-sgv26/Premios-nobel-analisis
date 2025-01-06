@@ -1,0 +1,21 @@
+#menuDrop{
+    margin-top: 30px;
+}
+
+#titleSlider{
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: 'Helvetica';
+}
+
+#cards{
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+a{
+    color: rgb(171, 60, 60);
+    margin-right: 10px;
+    font-family: 'Helvetica';
+}
